@@ -4,6 +4,8 @@
 	For a = [2, 1, 3, 5, 3, 2], the output should be
 	firstDuplicate(a) = 3.
 */
+
+//check to see if set works better.
 const a = [2, 1, 3, 5, 3, 2];
 
 function firstDuplicate(a) {
